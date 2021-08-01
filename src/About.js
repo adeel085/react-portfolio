@@ -4,7 +4,7 @@ function About() {
             <div style={{display: "flex", justifyContent: "center"}}>
                 <div style={{display: "inline-block"}}>
                     <img className="about-user-avatar" src={process.env.PUBLIC_URL + "/user.png"} alt="Me"></img>
-                    <span style={{display: "block", textAlign: "center", marginTop: "12px", fontWeight: "bold"}}>My Name Here</span>
+                    <span style={{display: "block", textAlign: "center", marginTop: "12px", fontWeight: "bold"}}>Adeel Ahmed</span>
                 </div>
             </div>
             <div>
